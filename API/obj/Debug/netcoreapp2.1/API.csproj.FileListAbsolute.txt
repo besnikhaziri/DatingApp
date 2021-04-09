@@ -12,3 +12,6 @@ C:\datingapp\api\obj\Debug\netcoreapp2.1\API.AssemblyInfo.cs
 C:\datingapp\api\obj\Debug\netcoreapp2.1\API.RazorTargetAssemblyInfo.cache
 C:\datingapp\api\obj\Debug\netcoreapp2.1\API.dll
 C:\datingapp\api\obj\Debug\netcoreapp2.1\API.pdb
+C:\DatingApp\API\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\DatingApp\API\bin\Debug\netcoreapp2.1\appsettings.json
+C:\DatingApp\API\obj\Debug\netcoreapp2.1\API.genruntimeconfig.cache
